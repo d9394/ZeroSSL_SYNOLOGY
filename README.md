@@ -1,4 +1,5 @@
 # ZeroSSL_SYNOLOGY    
+---   
 ZeroSSL certifidate update for SYNOLOGY DSM7    
 1、申请ZeroSSL的HTTPS免费DV证书，用email方式验证域名（因为运营商普遍屏蔽了80和443端口）    
 2、检查ZeroSSL证书的时效，到期前30天内再次申请    
